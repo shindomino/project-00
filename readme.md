@@ -133,7 +133,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 ###### How do I turn in the project?
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to a google spreadsheet we'll link here soon.
+* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to [this google spreadsheet](https://docs.google.com/spreadsheets/d/1ujt7SPT0sWdnSD3IK1DdHNmWHdgG8Zteu-rbCIRVtwU/edit#gid=0).
 
 ## Bonus Ideas
 
